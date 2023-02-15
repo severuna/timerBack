@@ -19,3 +19,14 @@ html {
     width: max-content;
     border-radius: 1rem;
 }
+
+.container {
+    margin: 3rem auto;
+    min-width: 50rem;
+    max-width: 90rem;
+    height: 45rem;
+    border: 1px solid #333;
+    border-radius: 1rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
